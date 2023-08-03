@@ -1,4 +1,4 @@
-const endDate = ("08-03-2023 06:05 PM")
+const endDate = ("08-06-2023 06:05 PM")
 
 const clock = () => {
             const end = new Date(endDate);
